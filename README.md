@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bernardo</h1>
-<h3 align="center">I am graduated in mathematics and have a strong passion for technology. I have experience working in popular programming languages and tools like HTML, CSS, JavaScript, PHP, and MySQL. With a solid foundation in mathematics, I bring a unique perspective to my work in the technology field. I possess a strong analytical mindset and problem-solving abilities, allowing me to approach complex challenges with a logical and systematic approach. This mathematical background also equips me with good attention to detail and accuracy, ensuring the delivery of high-quality solutions. Throughout my career, I have gained experience in server-side programming, particularly with PHP and MySQL. I have successfully developed and maintained database-driven applications, ensuring data integrity, security, and scalability. My experience includes designing and implementing efficient database schemas, writing optimized SQL queries, and integrating backend systems with frontend interfaces. I am a collaborative team player, comfortable working in cross-functional environments and effectively communicating with stakeholders.</h3>
+<h2 align="left">Hi 👋, I'm Bernardo <span> <img src="https://komarev.com/ghpvc/?username=bduringer&label=Profile%20views&color=0e75b6&style=flat" alt="bduringer" /> </span></h2>
+<h4 align="left">I am graduated in mathematics and have a strong passion for technology. I have experience working in popular programming languages and tools like HTML, CSS, JavaScript, PHP, and MySQL.<br>With a solid foundation in mathematics, I bring a unique perspective to my work in the technology field. I possess a strong analytical mindset and problem-solving abilities, allowing me to approach complex challenges with a logical and systematic approach. This mathematical background also equips me with good attention to detail and accuracy, ensuring the delivery of high-quality solutions.<br>Throughout my career, I have gained experience in server-side programming, particularly with PHP and MySQL. I have successfully developed and maintained database-driven applications, ensuring data integrity, security, and scalability. My experience includes designing and implementing efficient database schemas, writing optimized SQL queries, and integrating backend systems with frontend interfaces.<br>I am a collaborative team player, comfortable working in cross-functional environments and effectively communicating with stakeholders.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bduringer&label=Profile%20views&color=0e75b6&style=flat" alt="bduringer" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bduringer" alt="bduringer" /></a> </p>
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bduringer&show_icons=true&locale=en&layout=compact" alt="bduringer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bduringer&show_icons=true&locale=en" alt="bduringer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bduringer&theme=radical&show_icons=true&locale=en" alt="bduringer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bduringer&" alt="bduringer" /></p>
